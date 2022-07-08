@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e7f6b98-8138-4441-a079-5743ca554bb2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/effect.js" beforeDir="false" afterPath="$PROJECT_DIR$/effect.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
+  <component name="ProjectId" id="1uhsL4n7DuZY3uuve0dvv1W8sRz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assets/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assets/img" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e7f6b98-8138-4441-a079-5743ca554bb2" name="Default Changelist" comment="" />
+      <created>1625129095275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625129095275</updated>
+      <workItem from="1625129096673" duration="4453000" />
+      <workItem from="1625144296738" duration="2305000" />
+      <workItem from="1625147029691" duration="744000" />
+      <workItem from="1625147790810" duration="1548000" />
+      <workItem from="1625149608827" duration="4052000" />
+      <workItem from="1625208931204" duration="29000" />
+      <workItem from="1625211397095" duration="25000" />
+      <workItem from="1625211690302" duration="136000" />
+      <workItem from="1625211833443" duration="359000" />
+      <workItem from="1625212239996" duration="13000" />
+      <workItem from="1625212407584" duration="120000" />
+      <workItem from="1625212546680" duration="81000" />
+      <workItem from="1625212702804" duration="94000" />
+      <workItem from="1625213090733" duration="9000" />
+      <workItem from="1625213102418" duration="4000" />
+      <workItem from="1625213614875" duration="62000" />
+      <workItem from="1625213849605" duration="745000" />
+      <workItem from="1625214670941" duration="580000" />
+      <workItem from="1625215398501" duration="553000" />
+      <workItem from="1625216050575" duration="227000" />
+      <workItem from="1625216300836" duration="142000" />
+      <workItem from="1625216481600" duration="39000" />
+      <workItem from="1625216540655" duration="433000" />
+      <workItem from="1625216978720" duration="913000" />
+      <workItem from="1625218037459" duration="317000" />
+      <workItem from="1625218373411" duration="208000" />
+      <workItem from="1625222963604" duration="762000" />
+      <workItem from="1625223817242" duration="59000" />
+      <workItem from="1625223893981" duration="924000" />
+      <workItem from="1625224832608" duration="3138000" />
+      <workItem from="1625231262107" duration="3463000" />
+      <workItem from="1625238514083" duration="3113000" />
+      <workItem from="1625397273693" duration="568000" />
+      <workItem from="1626709854165" duration="29000" />
+      <workItem from="1626710098206" duration="11000" />
+      <workItem from="1626750608878" duration="57000" />
+      <workItem from="1626952311770" duration="1461000" />
+      <workItem from="1626954493685" duration="75000" />
+      <workItem from="1633781713736" duration="749000" />
+      <workItem from="1633782507565" duration="920000" />
+      <workItem from="1633784045176" duration="942000" />
+      <workItem from="1633785609768" duration="1200000" />
+      <workItem from="1634828153454" duration="72000" />
+      <workItem from="1634828245462" duration="618000" />
+      <workItem from="1634872532783" duration="632000" />
+      <workItem from="1634889959440" duration="242000" />
+      <workItem from="1638956853218" duration="23000" />
+      <workItem from="1638956909568" duration="2365000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1390" y="663" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1638959669496">
+      <screen x="0" y="23" width="2560" height="1369" />
+    </state>
+    <state x="1390" y="663" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.1369@0.23.2560.1369" timestamp="1638959669496" />
+    <state x="969" y="259" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1638959526840">
+      <screen x="0" y="23" width="2560" height="1369" />
+    </state>
+    <state x="969" y="259" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1369@0.23.2560.1369" timestamp="1638959526840" />
+    <state x="964" y="529" key="SettingsEditor" timestamp="1633785661349">
+      <screen x="0" y="23" width="2560" height="1364" />
+    </state>
+    <state x="964" y="529" key="SettingsEditor/0.23.2560.1364@0.23.2560.1364" timestamp="1633785661349" />
+    <state x="1110" y="722" key="com.intellij.ide.util.TipDialog" timestamp="1634889959495">
+      <screen x="0" y="23" width="2560" height="1364" />
+    </state>
+    <state x="1110" y="722" key="com.intellij.ide.util.TipDialog/0.23.2560.1364@0.23.2560.1364" timestamp="1634889959495" />
+  </component>
+</project>
